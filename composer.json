@@ -1,0 +1,19 @@
+{
+  "name": "newageerp/sf-crud",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "Newageerp\\SfCrud\\": ""
+    }
+  },
+  "require": {
+    "newageerp/sf-base-entity": "^0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arturas Jegorenkovas",
+      "email": "info@newageerp.com"
+    }
+  ]
+}
